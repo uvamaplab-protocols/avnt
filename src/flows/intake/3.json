@@ -22,7 +22,10 @@
             ],
             "selectable": true,
             "variable_name": "global:intake_craving1",
-            "column_count": 2
+            "column_count": 2,
+            "include_variable_values": [
+                "global:intake_used_12mo"
+            ]
         }
     ],
     "navigators": [
