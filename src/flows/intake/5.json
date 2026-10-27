@@ -31,13 +31,10 @@
         }
     ],
     "navigators": [
-        "wait_for_complete"
+        "wait_for_complete",
+        "wait_for_click"
     ],
     "condition": [
-        "intake_used_12mo",
-        "count>=",
-        3,
-        "&&",
         "global:intake_craving2",
         "!=",
         "None"

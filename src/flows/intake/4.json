@@ -30,11 +30,7 @@
         }
     ],
     "navigators": [
-        "wait_for_complete"
-    ],
-    "condition": [
-        "intake_used_12mo",
-        "count>=",
-        2
+        "wait_for_complete",
+        "wait_for_click"
     ]
 }
