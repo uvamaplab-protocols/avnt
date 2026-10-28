@@ -15,7 +15,8 @@
                 "Considerably",
                 "Extremely"
             ],
-            "selectable": true
+            "selectable": true,
+            "output_name": "daily_craving_bothered"
         }
     ]
 }

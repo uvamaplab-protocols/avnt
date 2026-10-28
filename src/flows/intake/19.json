@@ -11,7 +11,8 @@
             "min": "0",
             "max": "10",
             "display_slider_value": false,
-            "variable_name": "intake_sleep"
+            "variable_name": "intake_sleep",
+            "output_name": "intake_sleep"
         }
     ]
 }

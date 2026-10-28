@@ -20,7 +20,8 @@
                 "No pain"
             ],
             "selectable": true,
-            "multiselect": true
+            "multiselect": true,
+            "output_name": "daily_why_not_used"
         }
     ],
     "condition": [

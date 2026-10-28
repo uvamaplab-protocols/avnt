@@ -10,7 +10,8 @@
             "type": "Slider",
             "min": "0",
             "max": "10",
-            "display_slider_value": false
+            "display_slider_value": false,
+            "output_name": "daily_nicotine_rating"
         }
     ],
     "condition": [

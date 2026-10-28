@@ -23,7 +23,8 @@
             ],
             "selectable": true,
             "multiselect": true,
-            "column_count": 2
+            "column_count": 2,
+            "output_name": "weekly_past_week_used_corrected"
         }
     ],
     "condition": [

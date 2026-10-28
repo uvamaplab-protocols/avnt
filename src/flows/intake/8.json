@@ -16,7 +16,8 @@
                 "Extremely"
             ],
             "selectable": true,
-            "variable_name": "intake_craving_bothered"
+            "variable_name": "intake_craving_bothered",
+            "output_name": "intake_craving_bothered"
         }
     ]
 }

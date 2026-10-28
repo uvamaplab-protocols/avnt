@@ -23,7 +23,8 @@
             "days_behind": 7,
             "schedule_flow": false,
             "has_time": false,
-            "variable_name": "weekly_used_days"
+            "variable_name": "weekly_used_days",
+            "output_name": "weekly_used_days"
         }
     ],
     "condition": [

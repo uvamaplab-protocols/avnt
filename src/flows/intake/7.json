@@ -16,7 +16,8 @@
             ],
             "selectable": true,
             "multiselect": true,
-            "variable_name": "intake_nicotine_kind"
+            "variable_name": "intake_nicotine_kind",
+            "output_name": "intake_nicotine_kind"
         }
     ],
     "condition": [

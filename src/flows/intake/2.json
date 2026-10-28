@@ -23,7 +23,8 @@
             "selectable": true,
             "multiselect": true,
             "column_count": 2,
-            "variable_name": "global:intake_used_12mo"
+            "variable_name": "global:intake_used_12mo",
+            "output_name": "intake_used_12mo"
         }
     ],
     "navigators": [

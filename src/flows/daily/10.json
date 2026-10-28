@@ -13,7 +13,8 @@
                 "No"
             ],
             "selectable": true,
-            "variable_name": "device_stopped_early"
+            "variable_name": "device_stopped_early",
+            "output_name": "daily_device_stopped_early"
         }
     ],
     "condition": [

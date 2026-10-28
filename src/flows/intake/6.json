@@ -13,7 +13,8 @@
                 "No"
             ],
             "selectable": true,
-            "variable_name":"global:use_nicotine_intake"
+            "variable_name":"global:use_nicotine_intake",
+            "output_name": "intake_use_nicotine"
         }
     ]
 }

@@ -29,7 +29,8 @@
             ],
             "exclude_variable_values": [
                 "global:intake_craving1"
-            ]
+            ],
+            "output_name": "intake_craving2"
         }
     ],
     "navigators": [

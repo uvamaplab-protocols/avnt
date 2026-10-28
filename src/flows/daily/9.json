@@ -11,7 +11,8 @@
             "min": "0",
             "max": "60",
             "display_slider_value": true,
-            "variable_name": "device_minutes"
+            "variable_name": "device_minutes",
+            "output_name": "daily_device_minutes"
         }
     ]
 }

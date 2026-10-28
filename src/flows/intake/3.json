@@ -25,7 +25,8 @@
             "column_count": 2,
             "include_variable_values": [
                 "global:intake_used_12mo"
-            ]
+            ],
+            "output_name": "intake_craving1"
         }
     ],
     "navigators": [
