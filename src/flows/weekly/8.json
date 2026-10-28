@@ -17,7 +17,8 @@
                 "5 times",
                 "6 times",
                 "7 or more times"
-            ]
+            ],
+            "output_name": "weekly_meeting_count"
         }
     ],
     "condition": [

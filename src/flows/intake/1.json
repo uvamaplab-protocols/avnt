@@ -7,7 +7,7 @@
         {
             "type": "Entry",
             "bordered": false,
-            "name": "participantid",
+            "output_name": "participantid",
             "variable_name": "linking:code"
         }
     ]

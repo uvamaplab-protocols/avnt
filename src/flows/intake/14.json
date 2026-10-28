@@ -22,7 +22,8 @@
             ],
             "selectable": true,
             "multiselect": true,
-            "variable_name": "intake_why_used"
+            "variable_name": "intake_why_used",
+            "output_name": "intake_why_used"
         }
     ],
     "condition": [

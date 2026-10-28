@@ -20,7 +20,8 @@
                 "To treat pain"
             ],
             "selectable": true,
-            "multiselect": true
+            "multiselect": true,
+            "output_name": "daily_why_used"
         }
     ],
     "condition": [

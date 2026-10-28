@@ -11,7 +11,8 @@
             "min": "0",
             "max": "10",
             "display_slider_value": false,
-            "variable_name": "intake_depression"
+            "variable_name": "intake_depression",
+            "output_name": "intake_depression"
         }
     ]
 }

@@ -9,7 +9,8 @@
         {
             "type": "Time",
             "default_time": "20:00",
-            "variable_name": "global:survey_time"
+            "variable_name": "global:survey_time",
+            "output_name": "config_survey_time"
         }
     ]
 }

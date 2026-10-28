@@ -12,7 +12,8 @@
                 "Yes",
                 "No"
             ],
-            "selectable": true
+            "selectable": true,
+            "output_name": "weekly_want_coach"
         }
     ],
     "condition": [

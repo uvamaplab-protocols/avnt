@@ -13,7 +13,8 @@
                 "No"
             ],
             "selectable": true,
-            "variable_name": "global:weekly_meeting"
+            "variable_name": "global:weekly_meeting",
+            "output_name": "weekly_meeting"
         }
     ]
 }
