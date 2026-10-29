@@ -3,7 +3,7 @@
     "type": "frequency",
     "time": "${global:survey_time,20:00}",
     "frequency": "1",
-    "expiry": "06:00",
+    "expiry": "12:00",
     "path": "flow://flows/daily"
   },
   "weekly": {
@@ -11,7 +11,7 @@
     "skip": 1,
     "time": "${global:survey_time,20:00}",
     "frequency": "7",
-    "expiry": "6",
+    "expiry": "6.00:00:00",
     "path": "flow://flows/weekly"
   }
 }
